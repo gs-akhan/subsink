@@ -1,5 +1,5 @@
 {
-  "name": "subsink",
+  "name": "rxsubsink",
   "version": "1.0.0",
   "main": "dist/index.js",
   "description": "RxJS subscription sink for unsubscribing gracefully in a component",
